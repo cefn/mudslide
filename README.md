@@ -1,4 +1,4 @@
 mudslide
 ========
 
-An alternative for Powerpoint for those who can hack CSS
+An alternative to Powerpoint for those who can hack CSS
